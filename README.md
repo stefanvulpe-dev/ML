@@ -11,6 +11,7 @@ Each part contains the implementation of various algorithms. The algorithms are 
 
 1. **Linear Regression**
 2. **Logistic Regression**
+3. **Neural Networks**
 
 ## Unsupervised Learning Algorithms
 
